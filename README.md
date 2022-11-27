@@ -1,1 +1,2 @@
 # Restaurant-Cashier
+Small Tests :}
